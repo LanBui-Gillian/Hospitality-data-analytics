@@ -6,6 +6,7 @@
 
 This data analysis project focuses on exploring and improving key aspects of hotel management within the hospitality industry. By leveraging comprehensive data, the project aims to analyze various factors that influence hotel operations, guest satisfaction, and overall business performance. Key areas of investigation include booking trends, occupancy rates, customer preferences, revenue management, and operational efficiency. Through detailed data exploration, visualization, and predictive modeling, the project seeks to provide actionable insights that can guide decision-making processes, optimize resources, and enhance the guest experience, ultimately driving growth and profitability for hotels in the competitive hospitality domain.
 
+> Using dataset from Youtube: https://www.youtube.com/@codebasics
 ---
 
 # Screenshots of the Dashboard:
